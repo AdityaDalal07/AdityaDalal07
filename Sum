@@ -1,0 +1,4 @@
+def ssum (x,y):
+  print("Sum is =",x+y)
+
+ssum(4,7)
